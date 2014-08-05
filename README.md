@@ -146,6 +146,7 @@ A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resourc
  * [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
  * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
  * [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
+ * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
 
 ## Third Party APIs
 
