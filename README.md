@@ -1,6 +1,24 @@
 # Awesome Symfony 2
 A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resources.
 
+Table of contents:
+
+* [User Management](#user-management)
+* [Web Services](#web-services)
+* [Template Engine](#template-engine)
+* [Database](#database)
+* [Validation](#validation)
+* [Forms](#forms)
+* [Service Container](#service-container)
+* [Development](#development)
+* [Assets Management](#assets-management)
+* [Queues](#queues)
+* [Payments Management](#payments-management)
+* [Miscellaneous](#miscellaneous)
+* [Third Party APIs](#third-party-apis)
+* [Reading](#reading)
+* [Distributions](#distributions)
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -161,3 +179,20 @@ A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resourc
  * [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
  * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
  * [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
+
+## Distributions
+
+* [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+* [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
+* [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
+* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
+* [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
+* [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
+* [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
+* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty)
+* [Symfony Emptier Edition](https://github.com/gnugat/sf2-emptier)
+* [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
+* [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
+* [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
+* [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
+* [Liip RAD Edition](https://github.com/liip/symfony-rad-edition)
