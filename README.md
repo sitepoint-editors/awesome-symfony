@@ -13,6 +13,7 @@ Table of contents:
 * [Development](#development)
 * [Assets Management](#assets-management)
 * [Queues](#queues)
+* [Internationalization](#internationalization)
 * [Payments Management](#payments-management)
 * [Miscellaneous](#miscellaneous)
 * [Third Party APIs](#third-party-apis)
@@ -114,6 +115,12 @@ Table of contents:
  * [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - A bundle intended to provide an easy way to support developers who need to use job queues.
  * [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk, PHP client for beanstalkd queue.
  * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
+
+## Internationalization
+
+ * [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
+ * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages and translate them via a web-based UI.
+ * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
 
 ## Payments Management
 
