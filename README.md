@@ -6,7 +6,7 @@ Table of contents:
 * [User Management](#user-management)
 * [Web Services](#web-services)
 * [Template Engine](#template-engine)
-* [Database](#database)
+* [Storage](#storage)
 * [Validation](#validation)
 * [Forms](#forms)
 * [Service Container](#service-container)
@@ -51,7 +51,7 @@ Table of contents:
  * [CgKintBundle](https://github.com/barelon/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
  * [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
 
-## Database
+## Storage
 
  * [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Integrates the Doctrine2 Data Fixtures library.
  * [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Integrates the Doctrine2 Migrations library.
