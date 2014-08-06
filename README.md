@@ -1,6 +1,23 @@
 # Awesome Symfony 2
 A list of awesome [Symfony 2](http://symfony.com) bundles, utilities and resources.
 
+Table of contents:
+
+* [User Management](#user-management)
+* [Web Services](#web-services)
+* [Template Engine](#template-engine)
+* [Database](#database)
+* [Validation](#validation)
+* [Forms](#forms)
+* [Service Container](#service-container)
+* [Development](#development)
+* [Assets Management](#assets-management)
+* [Queues](#queues)
+* [Payments Management](#payments-management)
+* [Miscellaneous](#miscellaneous)
+* [Third Party APIs](#third-party-apis)
+* [Reading](#reading)
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
