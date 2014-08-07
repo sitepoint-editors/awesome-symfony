@@ -129,6 +129,7 @@ Table of contents:
  * [JMSPaymentCoreBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - This bundle provides the foundation for various payment plugins.
  * [JMSPaymentPaypalBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - Payment Bundle providing access to the PayPal API.
  * [CartBundle](https://github.com/leaphly/CartBundle) - High quality cart for developers.
+ * [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
 
 ## Miscellaneous
 
