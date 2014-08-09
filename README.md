@@ -96,6 +96,7 @@ Table of contents:
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
  * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
+ * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper
 
 ## Assets Management
 
