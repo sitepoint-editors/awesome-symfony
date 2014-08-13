@@ -15,6 +15,7 @@ Table of contents:
 * [Queues](#queues)
 * [Internationalization](#internationalization)
 * [Payments Management](#payments-management)
+* [Monitoring](#monitoring)
 * [Miscellaneous](#miscellaneous)
 * [Third Party APIs](#third-party-apis)
 * [Reading](#reading)
@@ -133,6 +134,10 @@ Table of contents:
  * [JMSPaymentPaypalBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - Payment Bundle providing access to the PayPal API.
  * [CartBundle](https://github.com/leaphly/CartBundle) - High quality cart for developers.
  * [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
+
+## Monitoring
+
+ * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
 
 ## Miscellaneous
 
