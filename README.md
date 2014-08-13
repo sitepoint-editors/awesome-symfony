@@ -178,6 +178,7 @@ Table of contents:
  * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
  * [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
  * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
+ * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
 
 ## Third Party APIs
 
