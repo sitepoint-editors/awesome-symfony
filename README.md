@@ -72,7 +72,7 @@ Table of contents:
 
 ## Validation
 
- * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - Provides a FilterService to allow users to implement input filtering in entities using Annotations. 
+ * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - Provides a FilterService to allow users to implement input filtering in entities using Annotations.
 
 ## Forms
 
