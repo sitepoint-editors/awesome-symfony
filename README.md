@@ -100,6 +100,7 @@ Table of contents:
  * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
  * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
  * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper
+ * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags
 
 ## Assets Management
 
