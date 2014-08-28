@@ -79,6 +79,7 @@ Table of contents:
 
  * [CaptchaBundle](https://github.com/Gregwar/CaptchaBundle) - Bundle implementing a "captcha" form type.
  * [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
+ * [LexikFormFilterBundle] (https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
  * [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
  * [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
  * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
