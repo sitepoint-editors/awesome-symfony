@@ -70,6 +70,8 @@ Table of contents:
  * [SncRedisBundle](https://github.com/snc/SncRedisBundle) - Bundle to integrate Redis into your app.
  * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
  * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
+ * [AliceBundle](https://github.com/hautelook/AliceBundle) A Symfony2 bundle to help load Doctrine Fixtures with Alice.
+ * [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - A Symfony2 bundle for using Alice and Faker with data fixtures.
 
 ## Validation
 
