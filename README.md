@@ -53,6 +53,7 @@ Table of contents:
  * [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
  * [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
  * [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
+ * [TwitalBundle](https://github.com/goetas/twital-bundle) - An attribute template engine built on top of Twig and 100% compatible with all twig's features.
 
 ## Storage
 
