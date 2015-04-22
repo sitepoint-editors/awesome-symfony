@@ -96,6 +96,7 @@ Table of contents:
 
  * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
  * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
+ * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - a bundle providing autowiring for service arguments.
 
 ## Development
 
