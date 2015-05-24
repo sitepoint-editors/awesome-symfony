@@ -73,7 +73,7 @@ Table of contents:
  * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE_FORMAT().
  * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
  * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - Validator for ensuring strong passwords.
- * [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities.
+ * [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
  * [SncRedisBundle](https://github.com/snc/SncRedisBundle) - Bundle to integrate Redis into your app.
  * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - This bundle provides integration for DoctrineExtensions.
  * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
