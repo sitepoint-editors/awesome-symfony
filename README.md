@@ -193,6 +193,7 @@ Table of contents:
  * [highcharts-bundle](http://rdir.io/Epf) - Integrates PHP Highcharts.
  * [HTMLPurifierBundle](http://rdir.io/U8P) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
  * [IbrowsWizardAnnotationBundle](http://rdir.io/pkC) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
+ * [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
  * [KitpagesDataGridBundle](http://rdir.io/ySJ) - This bundle provides a simple datagrid bundle.
  * [KnpMarkdownBundle](http://rdir.io/VSO) - Wrapper for PHP markdown.
  * [KnpSnappyBundle](http://rdir.io/zI8) - Easily create PDF and images by converting html using webkit.
