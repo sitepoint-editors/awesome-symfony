@@ -184,6 +184,7 @@ Table of contents:
  * [ConsoleBundle](http://rdir.io/kJG) - Commandline interface in browser.
  * [ControllerExtraBundle](http://rdir.io/Kij) - Controller extras bundle.
  * [EmbedlyBundle](http://rdir.io/K8z) - Bundle for the embed.ly library.
+ * [EasyAuditBundle](http://rdir.io/V7u) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
  * [FeatureToggleBundle](http://rdir.io/e11) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
  * [ffmpeg-bundle](http://rdir.io/8wJ) - This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.
  * [FlorianvSwapBundle](http://rdir.io/5yT) - This Bundle integrates the Swap library.
