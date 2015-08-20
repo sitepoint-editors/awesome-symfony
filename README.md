@@ -106,13 +106,14 @@ Table of contents:
  * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper
  * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
+ * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
+ * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
  * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags
  * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
  * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
  * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
  * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
- * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
  
 ## Assets Management
 
