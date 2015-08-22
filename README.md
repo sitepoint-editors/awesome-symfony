@@ -73,7 +73,6 @@ Table of contents:
  * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
  * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE_FORMAT().
  * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
- * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - Validator for ensuring strong passwords.
  * [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
  * [SncRedisBundle](https://github.com/snc/SncRedisBundle) - Bundle to integrate Redis into your app.
  * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - This bundle provides integration for DoctrineExtensions.
@@ -83,6 +82,7 @@ Table of contents:
 ## Validation
 
  * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - Provides a FilterService to allow users to implement input filtering in entities using Annotations.
+ * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - Validator for ensuring strong passwords.
  * [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
 
 ## Forms
