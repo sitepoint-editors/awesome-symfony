@@ -83,6 +83,7 @@ Table of contents:
 ## Validation
 
  * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - Provides a FilterService to allow users to implement input filtering in entities using Annotations.
+ * [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
 
 ## Forms
 
