@@ -201,6 +201,7 @@ Table of contents:
  * [MultiParamBundle](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
  * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
  * [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
+ * [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
  * [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
  * [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
  * [SettingsBundle](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
