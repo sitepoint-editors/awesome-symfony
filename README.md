@@ -247,3 +247,9 @@ Table of contents:
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) has waived all copyright and related or neighboring rights to this work.
