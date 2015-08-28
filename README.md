@@ -223,6 +223,7 @@ Table of contents:
  * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
 
 ## Third Party APIs
+ * [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project.
  * [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2
  * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
 
