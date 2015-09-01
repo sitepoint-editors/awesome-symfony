@@ -147,6 +147,7 @@ Table of contents:
  * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
  * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
  * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection
+ * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
 
 ## Payments Management
 
