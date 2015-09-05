@@ -32,12 +32,13 @@ Table of contents:
 ## Web Services
 
  * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
+ * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
  * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
  * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
- * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
  * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
  * [JSONApiBundle](https://github.com/nilportugues/symfony2-jsonapi-transformer) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
  * [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
+ * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities
  * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the namshi/jose library.
  * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations.
  * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
@@ -45,7 +46,6 @@ Table of contents:
  * [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - With this bundle you can easy limit requests to your application.
  * [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
  * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
- * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities
 
 ## Template Engine
 
@@ -102,8 +102,8 @@ Table of contents:
 ## Service Container
 
  * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
- * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
  * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - a bundle providing autowiring for service arguments.
+ * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
 
 ## Development
 
@@ -186,8 +186,8 @@ Table of contents:
  * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
  * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
  * [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Controller extras bundle.
- * [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
  * [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
+ * [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
  * [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
  * [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.
  * [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
