@@ -113,6 +113,7 @@ Table of contents:
  * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
  * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
+ * [PhpMetricsCollectorBundle](https://github.com/Halleck45/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
  * [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
