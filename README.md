@@ -235,6 +235,7 @@ Table of contents:
  * [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2
  * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
  * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
+ * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
 
 ## Reading
 
