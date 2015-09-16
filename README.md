@@ -108,6 +108,7 @@ Table of contents:
 
 ## Development
 
+ * [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
  * [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
  * [http-bundle](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
  * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
