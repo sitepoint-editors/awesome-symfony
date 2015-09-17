@@ -31,6 +31,7 @@ Table of contents:
 
 ## Web Services
 
+ * [api2symfony-bundle](https://github.com/creads/api2symfony-bundle) - Symfony 2 bundle allowing to automatically generate controllers from standard API specifications.
  * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
  * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
  * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
