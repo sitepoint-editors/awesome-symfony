@@ -255,6 +255,7 @@ Table of contents:
 
 ## Distributions
 
+* [API Platform framework](https://github.com/api-platform/api-platform)
 * [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
 * [Liip RAD Edition](https://github.com/liip/symfony-rad-edition)
