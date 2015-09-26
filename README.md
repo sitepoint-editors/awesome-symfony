@@ -20,6 +20,7 @@ Table of contents:
 * [Third Party APIs](#third-party-apis)
 * [Reading](#reading)
 * [Distributions](#distributions)
+* [Community](#community)
 
 ## User Management
 
@@ -269,6 +270,24 @@ Table of contents:
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+
+## Community
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony) - Symfony support on Stack Overflow.
+* [Reddit](http://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
+* [Facebook](https://fb.com/groups/7672226565) - Large and active group on Facebook.
+* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
+* IRC:
+    * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
+    * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
+* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
+* [Quora](https://www.quora.com/Symfony) - Symfony topics on Quora.
+* [SensioLabs Connect](https://connect.sensiolabs.com/) - Developer social network, earn achievements for your community involvement and commitment.
+* [Slack](https://symfony2slack.herokuapp.com/) - Symfony group on Slack, platform for team communication.
+* [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
+* Local:
+    * [Community events](http://symfony.com/events/) - Find Symfony events near you.
+    * [Meetup](http://symfony.meetup.com/) - Get involved locally and find Symfony users from your local area.
 
 ## License
 
