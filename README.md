@@ -235,6 +235,7 @@ Table of contents:
  * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline
  * [TransmissionBundle](https://github.com/chellem/TransmissionBundle) - Bundle for Transmission API client.
  * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
+ * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
  * [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
  * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
  * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
