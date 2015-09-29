@@ -161,6 +161,7 @@ Table of contents:
 ## Payments Management
 
  * [CartBundle](https://github.com/leaphly/CartBundle) - High quality cart for developers.
+ * [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
  * [JMSPaymentCoreBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - This bundle provides the foundation for various payment plugins.
  * [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) - Payment Bundle providing access to the PayPal API.
  * [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
