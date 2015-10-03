@@ -279,7 +279,9 @@ Table of contents:
 
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony) - Symfony support on Stack Overflow.
 * [Reddit](http://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
-* [Facebook](https://fb.com/groups/7672226565) - Large and active group on Facebook.
+* Facebook - notable, large and active Facebook groups:
+    * [1](https://fb.com/groups/7672226565)
+    * [2](https://fb.com/groups/symfony2.framework)
 * [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
 * IRC:
     * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
