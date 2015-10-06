@@ -41,7 +41,7 @@ Table of contents:
  * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
  * [JSONApiBundle](https://github.com/nilportugues/symfony2-jsonapi-transformer) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
  * [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
- * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities
+ * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities.
  * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the namshi/jose library.
  * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations.
  * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
@@ -65,7 +65,7 @@ Table of contents:
 
 ## Storage
 
- * [AliceBundle](https://github.com/hautelook/AliceBundle) A Symfony2 bundle to help load Doctrine Fixtures with Alice.
+ * [AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice.
  * [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - A Symfony2 bundle for using Alice and Faker with data fixtures.
  * [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - Dynamic database routing.
  * [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) - Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES.
@@ -115,7 +115,7 @@ Table of contents:
  * [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
  * [http-bundle](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
  * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
- * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper
+ * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper.
  * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
  * [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2.
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
@@ -125,7 +125,7 @@ Table of contents:
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
  * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
- * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags
+ * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags.
  * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
  * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
  * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
@@ -157,7 +157,7 @@ Table of contents:
  * [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
  * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
  * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
- * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection
+ * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
  * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
 
 ## Payments Management
@@ -193,7 +193,7 @@ Table of contents:
  * [BlogBundle](https://github.com/stfalcon/BlogBundle) - Simple blog module.
  * [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
  * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
- * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line)
+ * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
  * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
  * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
  * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
@@ -236,7 +236,7 @@ Table of contents:
  * [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - Cache abstraction bundle.
  * [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
  * [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
- * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline
+ * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
  * [TransmissionBundle](https://github.com/chellem/TransmissionBundle) - Bundle for Transmission API client.
  * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
  * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
@@ -245,8 +245,9 @@ Table of contents:
  * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
 
 ## Third Party APIs
+
  * [AlgoliaSearchBundle](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project.
- * [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2
+ * [GordalinaMixpanelBundle](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2.
  * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
  * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
  * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
@@ -275,6 +276,7 @@ Table of contents:
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+* [Victoire DCMS](https://github.com/victoire/victoire)
 
 ## Community
 
