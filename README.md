@@ -137,6 +137,7 @@ Table of contents:
 ## Assets Management
 
  * [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) - Asset Directory filter for Assetic.
+ * [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - This bundle allows you to automaticly include javascripts and stylesheets anywhere in your project.
  * [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - An assetic minifier in pure PHP for CSS and JS files.
  * [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - A small assetic filter to fix all url paths at css documents to correct urls.
  * [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
@@ -169,6 +170,7 @@ Table of contents:
  * [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
  * [JMSPaymentCoreBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - This bundle provides the foundation for various payment plugins.
  * [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) - Payment Bundle providing access to the PayPal API.
+ * [MangopayBundle](https://github.com/AppVentus/MangopayBundle) - Mangopay API implementation for Symfony2.
  * [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
 
 ## Monitoring
@@ -188,6 +190,9 @@ Table of contents:
  * [AntennaBundle](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication.
  * [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
  * [APYDataGridBundle](https://github.com/Abhoryo/APYDataGridBundle) - Datagrid Bundle.
+ * [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
+ * [AviaryBundle](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.
+ * [AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2.
  * [BackupManagerBundle](https://github.com/lhpalacio/BackupManagerBundle) - A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.
  * [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
  * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) - Integration of the Geocoder library.
