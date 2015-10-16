@@ -150,6 +150,7 @@ Table of contents:
 ## Queues
 
  * [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - A bundle intended to provide an easy way to support developers who need to use job queues.
+ * [HeriJobQueueBundle](https://github.com/heristop/HeriJobQueueBundle) - This Symfony bundle provides the use of Zend Queue from Zend Framework.
  * [JMSJobQueueBundle](http://jmsyst.com/bundles/JMSJobQueueBundle) - Allows to schedule console commands as jobs.
  * [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk, PHP client for beanstalkd queue.
  * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
