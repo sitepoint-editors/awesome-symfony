@@ -211,6 +211,7 @@ Table of contents:
  * [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Controller extras bundle.
  * [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
  * [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
+ * [ExcelBundle](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.
  * [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
  * [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.
  * [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
