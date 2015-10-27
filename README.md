@@ -56,6 +56,7 @@ Table of contents:
  * [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
  * [GravatarBundle](https://github.com/ornicar/GravatarBundle) - Simple wrapper to gravatar API.
  * [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
+ * [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
  * [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
  * [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
  * [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
