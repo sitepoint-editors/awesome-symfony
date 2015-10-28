@@ -115,6 +115,7 @@ Table of contents:
 
 ## Development
 
+ * [ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle.
  * [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - This bundle offers a simple structure to run ajax actions.
  * [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
  * [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
