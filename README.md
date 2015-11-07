@@ -255,6 +255,7 @@ Table of contents:
  * [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - Cache abstraction bundle.
  * [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
  * [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
+ * [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
  * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
  * [TransmissionBundle](https://github.com/chellem/TransmissionBundle) - Bundle for Transmission API client.
  * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
