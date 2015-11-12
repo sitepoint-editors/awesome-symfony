@@ -20,6 +20,7 @@ Table of contents:
 * [Third Party APIs](#third-party-apis)
 * [Reading](#reading)
 * [Distributions](#distributions)
+* [Resources](#resources)
 * [Community](#community)
 
 ## User Management
@@ -298,6 +299,10 @@ Table of contents:
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
 * [Victoire DCMS](https://github.com/victoire/victoire)
+
+## Resources
+
+* [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
 
 ## Community
 
