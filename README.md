@@ -303,6 +303,7 @@ Table of contents:
 ## Resources
 
 * [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
+* [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 
 ## Community
 
