@@ -121,6 +121,7 @@ Table of contents:
  * [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - This bundle offers a simple structure to run ajax actions.
  * [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
  * [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
+ * [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Set of useful Controller annotations.
  * [http-bundle](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
  * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
  * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper.
