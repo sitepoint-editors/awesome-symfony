@@ -14,6 +14,7 @@ Table of contents:
 * [Assets Management](#assets-management)
 * [Queues](#queues)
 * [Internationalization](#internationalization)
+* [Ecommerce](#ecommerce)
 * [Payments Management](#payments-management)
 * [Monitoring](#monitoring)
 * [Miscellaneous](#miscellaneous)
@@ -174,6 +175,11 @@ Table of contents:
  * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
  * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
  * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
+
+## Ecommerce
+
+* [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
+* [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles 
 
 ## Payments Management
 
