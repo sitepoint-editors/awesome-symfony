@@ -119,6 +119,7 @@ Table of contents:
 
 ## Development
 
+ * [AccessibleBundle](https://github.com/antares993/AccessibleBundle) - Define your class' getters, setters and constructor using powerful annotations.
  * [ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle.
  * [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - This bundle offers a simple structure to run ajax actions.
  * [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
