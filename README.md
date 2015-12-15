@@ -42,7 +42,7 @@ Table of contents:
  * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
  * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
  * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
- * [JSONApiBundle](https://github.com/nilportugues/symfony2-jsonapi-transformer) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
+ * [JSONApiBundle](https://github.com/nilportugues/symfony-jsonapi-transformer) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
  * [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
  * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities.
  * [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the namshi/jose library.
@@ -56,9 +56,9 @@ Table of contents:
 
 ## Template Engine
 
- * [CgKintBundle](https://github.com/barelon/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
+ * [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
  * [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
- * [GravatarBundle](https://github.com/ornicar/GravatarBundle) - Simple wrapper to gravatar API.
+ * [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - Simple wrapper to gravatar API.
  * [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
  * [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
  * [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
@@ -136,7 +136,7 @@ Table of contents:
  * [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
- * [SandboxBundle](https://github.com/danrevah/SandboxBundle) - Overriding controller logic & response in a Sandbox environment.
+ * [SandboxBundle](https://github.com/danrevah/sandbox-bundle) - Overriding controller logic & response in a Sandbox environment.
  * [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - Easily monitor your symfony2 production env., with ready-to-use stats.
  * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags.
  * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
@@ -208,7 +208,7 @@ Table of contents:
  * [AnhTaggableBundle](https://github.com/hilobok/AnhTaggableBundle) - Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging.
  * [AntennaBundle](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication.
  * [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
- * [APYDataGridBundle](https://github.com/Abhoryo/APYDataGridBundle) - Datagrid Bundle.
+ * [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle.
  * [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
  * [AviaryBundle](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.
  * [AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2.
@@ -270,7 +270,7 @@ Table of contents:
  * [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
  * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
  * [TransactionBundle](https://github.com/siouan/TransactionBundle) - Transaction management for Symfony applications.
- * [TransmissionBundle](https://github.com/chellem/TransmissionBundle) - Bundle for Transmission API client.
+ * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
  * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
  * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
  * [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
@@ -318,8 +318,8 @@ Table of contents:
 
 ## Community
 
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony) - Symfony support on Stack Overflow.
-* [Reddit](http://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
+* [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
 * Facebook - notable, large and active Facebook groups:
     * [1](https://fb.com/groups/7672226565)
     * [2](https://fb.com/groups/symfony2.framework)
@@ -340,4 +340,4 @@ Table of contents:
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) (the repo's original creator) and [SitePoint](http://sitepoint.com) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) (the repo's original creator) and [SitePoint](http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.
