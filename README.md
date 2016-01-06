@@ -196,6 +196,7 @@ Table of contents:
 ## Monitoring
 
  * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
+ * [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Bundle provides a way to run a series of application related health checks.
 
 ## Administration
 
