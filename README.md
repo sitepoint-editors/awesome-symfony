@@ -106,8 +106,8 @@ Table of contents:
  * [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
  * [FormBundle](https://github.com/Gregwar/FormBundle) - Provides the "entity_id" type.
  * [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
- * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
  * [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
+ * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
  * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
  * [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) - A Symfony 2 bundle that allows you to log form errors and data.
 
@@ -160,6 +160,7 @@ Table of contents:
 
 ## Queues
 
+ * [BernardBundle](https://github.com/bernardphp/BernardBundle) - Bernard is a multi-backend PHP library for creating background jobs for later processing.
  * [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - A bundle intended to provide an easy way to support developers who need to use job queues.
  * [HeriJobQueueBundle](https://github.com/heristop/HeriJobQueueBundle) - This Symfony bundle provides the use of Zend Queue from Zend Framework.
  * [JMSJobQueueBundle](http://jmsyst.com/bundles/JMSJobQueueBundle) - Allows to schedule console commands as jobs.
@@ -167,7 +168,6 @@ Table of contents:
  * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
  * [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
  * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
- * [BernardBundle](https://github.com/bernardphp/BernardBundle) - Bernard is a multi-backend PHP library for creating background jobs for later processing.
 
 
 ## Internationalization
@@ -188,23 +188,23 @@ Table of contents:
 ## Payments Management
 
  * [CartBundle](https://github.com/leaphly/CartBundle) - High quality cart for developers.
- * [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
  * [JMSPaymentCoreBundle](http://jmsyst.com/bundles/JMSPaymentCoreBundle) - This bundle provides the foundation for various payment plugins.
  * [JMSPaymentPaypalBundle](https://github.com/schmittjoh/JMSPaymentPaypalBundle) - Payment Bundle providing access to the PayPal API.
  * [MangopayBundle](https://github.com/AppVentus/MangopayBundle) - Mangopay API implementation for Symfony2.
+ * [PaymentAdyenBundle](https://github.com/ruudk/PaymentAdyenBundle) - Provides access to the Adyen API. Based on JMSPaymentCoreBundle.
  * [PayumBundle](https://github.com/Payum/PayumBundle) - Rich payment solutions for symfony2. Paypal, Stripe, Payex, Authorize.NET, Be2bill, Klarna, recurring paymens, instant notifications and many more
 
 ## Monitoring
 
- * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
  * [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Bundle provides a way to run a series of application related health checks.
+ * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
 
 ## Administration
 
+ * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
  * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
  * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
  * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
- * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
 
 ## Miscellaneous
 
