@@ -279,7 +279,6 @@ Table of contents:
  * [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
  * [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
  * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
- * [TransactionBundle](https://github.com/siouan/TransactionBundle) - Transaction management for Symfony applications.
  * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
  * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
  * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
