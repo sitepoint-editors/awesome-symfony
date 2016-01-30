@@ -338,8 +338,8 @@ Table of contents:
     * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
     * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
 * [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
-* [Quora](https://www.quora.com/Symfony) - Symfony topics on Quora.
-* [SensioLabs Connect](https://connect.sensiolabs.com/) - Developer social network, earn achievements for your community involvement and commitment.
+* [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
+* [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
 * [Slack](https://symfony2slack.herokuapp.com/) - Symfony group on Slack, platform for team communication.
 * [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
 * Local:
@@ -348,6 +348,6 @@ Table of contents:
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) (the repo's original creator) and [SitePoint](http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.
