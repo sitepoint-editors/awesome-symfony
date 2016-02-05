@@ -344,7 +344,7 @@ Table of contents:
 * [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
 * Local:
     * [Community events](http://symfony.com/events/) - Find Symfony events near you.
-    * [Meetup](http://symfony.meetup.com/) - Get involved locally and find Symfony users from your local area.
+    * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
 
 ## License
 
