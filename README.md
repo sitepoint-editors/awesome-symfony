@@ -137,7 +137,7 @@ Table of contents:
  * [LiipFunctionalTestBundle](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2.
  * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
  * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
- * [PhpMetricsCollectorBundle](https://github.com/Halleck45/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
+ * [PhpMetricsCollectorBundle](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
  * [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
  * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
  * [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
