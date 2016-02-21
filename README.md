@@ -38,8 +38,8 @@ Table of contents:
 
  * [api2symfony-bundle](https://github.com/creads/api2symfony-bundle) - Symfony 2 bundle allowing to automatically generate controllers from standard API specifications.
  * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
- * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
  * [DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for Symfony APIs used with AngularJS and other major AJAX libraries
+ * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
  * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
  * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
  * [JMDRestBundle](https://github.com/mops1k/JMDRestBundle) - Provide fast and simple way to generate REST api for your project entities without editing configs and creating any controllers.
@@ -234,6 +234,8 @@ Table of contents:
  * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
  * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
  * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
+ * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
+ * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
  * [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
  * [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
  * [ExcelBundle](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.
@@ -287,8 +289,6 @@ Table of contents:
  * [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
  * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
  * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
- * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
- * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
 
 ## Third Party APIs
 
