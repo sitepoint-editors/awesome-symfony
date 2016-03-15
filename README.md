@@ -45,6 +45,26 @@ Table of contents:
 * [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
 * [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
 
+## Community
+
+* Facebook - notable, large and active Facebook groups:
+    * [1](https://fb.com/groups/7672226565)
+    * [2](https://fb.com/groups/symfony2.framework)
+* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
+* IRC:
+    * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
+    * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
+* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
+* Local:
+    * [Community events](http://symfony.com/events/) - Find Symfony events near you.
+    * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
+* [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
+* [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
+* [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
+* [Slack](https://symfony2slack.herokuapp.com/) - Symfony group on Slack, platform for team communication.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
+* [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -329,26 +349,6 @@ Table of contents:
 
 * [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
 * [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
-
-## Community
-
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
-* [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
-* Facebook - notable, large and active Facebook groups:
-    * [1](https://fb.com/groups/7672226565)
-    * [2](https://fb.com/groups/symfony2.framework)
-* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
-* IRC:
-    * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
-    * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
-* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
-* [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
-* [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
-* [Slack](https://symfony2slack.herokuapp.com/) - Symfony group on Slack, platform for team communication.
-* [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
-* Local:
-    * [Community events](http://symfony.com/events/) - Find Symfony events near you.
-    * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
 
 ## License
 
