@@ -3,26 +3,27 @@ A list of awesome [Symfony](http://symfony.com) bundles, utilities and resources
 
 Table of contents:
 
-* [User Management](#user-management)
-* [Web Services](#web-services)
-* [Template Engine](#template-engine)
-* [Storage](#storage)
-* [Validation](#validation)
-* [Forms](#forms)
-* [Service Container](#service-container)
-* [Development](#development)
+* [Administration](#administration)
 * [Assets Management](#assets-management)
-* [Queues](#queues)
-* [Internationalization](#internationalization)
-* [Ecommerce](#ecommerce)
-* [Payments Management](#payments-management)
-* [Monitoring](#monitoring)
-* [Miscellaneous](#miscellaneous)
-* [Third Party APIs](#third-party-apis)
-* [Reading](#reading)
-* [Distributions](#distributions)
-* [Resources](#resources)
 * [Community](#community)
+* [Development](#development)
+* [Distributions](#distributions)
+* [Ecommerce](#ecommerce)
+* [Forms](#forms)
+* [Internationalization](#internationalization)
+* [Miscellaneous](#miscellaneous)
+* [Monitoring](#monitoring)
+* [Payments Management](#payments-management)
+* [Queues](#queues)
+* [Reading](#reading)
+* [Resources](#resources)
+* [Service Container](#service-container)
+* [Storage](#storage)
+* [Template Engine](#template-engine)
+* [Third Party APIs](#third-party-apis)
+* [User Management](#user-management)
+* [Validation](#validation)
+* [Web Services](#web-services)
 
 ## User Management
 
@@ -354,4 +355,3 @@ Table of contents:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Emanuele Minotto](http://emanueleminotto.github.io) (the repo's original creator) and [SitePoint](http://www.sitepoint.com/) have waived all copyright and related or neighboring rights to this work.
-
