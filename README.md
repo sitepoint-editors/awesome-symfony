@@ -288,6 +288,20 @@ Table of contents:
 * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
 * [WizadDoctrineDocBundle](https://github.com/wpottier/WizadDoctrineDocBundle) - Allows you to generate a decent documentation for your doctrine model schema.
 
+## Template Engine
+
+* [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
+* [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
+* [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - Simple wrapper to gravatar API.
+* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
+* [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
+* [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
+* [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
+* [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
+* [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
+* [TwitalBundle](https://github.com/goetas/twital-bundle) - An attribute template engine built on top of Twig and 100% compatible with all twig's features.
+* [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -319,20 +333,6 @@ Table of contents:
  * [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
  * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
  * [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
-
-## Template Engine
-
- * [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
- * [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
- * [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - Simple wrapper to gravatar API.
- * [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
- * [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
- * [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
- * [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
- * [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
- * [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) - Handy additional features for Twig.
- * [TwitalBundle](https://github.com/goetas/twital-bundle) - An attribute template engine built on top of Twig and 100% compatible with all twig's features.
- * [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
 
 ## Validation
 
