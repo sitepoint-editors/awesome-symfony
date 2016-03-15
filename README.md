@@ -93,6 +93,24 @@ Table of contents:
 * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
 * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
 
+## Distributions
+
+* [API Platform framework](https://github.com/api-platform/api-platform)
+* [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
+* [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
+* [Liip RAD Edition](https://github.com/liip/symfony-rad-edition)
+* [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
+* [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
+* [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
+* [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
+* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
+* [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
+* [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
+* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
+* [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
+* [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+* [Victoire DCMS](https://github.com/victoire/victoire)
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -326,24 +344,6 @@ Table of contents:
  * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
  * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
  * [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
-
-## Distributions
-
-* [API Platform framework](https://github.com/api-platform/api-platform)
-* [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
-* [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
-* [Liip RAD Edition](https://github.com/liip/symfony-rad-edition)
-* [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
-* [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
-* [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
-* [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
-* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
-* [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
-* [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
-* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
-* [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
-* [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
-* [Victoire DCMS](https://github.com/victoire/victoire)
 
 ## Resources
 
