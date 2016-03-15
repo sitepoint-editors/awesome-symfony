@@ -130,6 +130,16 @@ Table of contents:
 * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
 * [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) - A Symfony 2 bundle that allows you to log form errors and data.
 
+## Internationalization
+
+* [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
+* [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
+* [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
+* [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
+* [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
+* [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
+* [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -223,17 +233,6 @@ Table of contents:
  * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
  * [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
  * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
-
-
-## Internationalization
-
- * [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
- * [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
- * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
- * [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
- * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
- * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
- * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
 
 ## Payments Management
 
