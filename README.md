@@ -32,6 +32,19 @@ Table of contents:
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 
+## Assets Management
+
+* [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) - Asset Directory filter for Assetic.
+* [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - This bundle allows you to automaticly include javascripts and stylesheets anywhere in your project.
+* [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - An assetic minifier in pure PHP for CSS and JS files.
+* [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - A small assetic filter to fix all url paths at css documents to correct urls.
+* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
+* [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - Exposes the AssetsHelper service from Symfony2's templating component to JavaScript, allowing relative or absolute asset URI's to be generated client-side.
+* [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - Automates the process of updating assets version.
+* [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
+* [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
+* [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -156,19 +169,6 @@ Table of contents:
  * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
  * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
  * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
-
-## Assets Management
-
- * [assetic-extra-bundle](https://github.com/alexandresalome/assetic-extra-bundle) - Asset Directory filter for Assetic.
- * [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - This bundle allows you to automaticly include javascripts and stylesheets anywhere in your project.
- * [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - An assetic minifier in pure PHP for CSS and JS files.
- * [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - A small assetic filter to fix all url paths at css documents to correct urls.
- * [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
- * [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - Exposes the AssetsHelper service from Symfony2's templating component to JavaScript, allowing relative or absolute asset URI's to be generated client-side.
- * [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - Automates the process of updating assets version.
- * [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
- * [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
- * [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
 
 ## Queues
 
