@@ -140,6 +140,86 @@ Table of contents:
 * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
 * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
 
+## Miscellaneous
+
+* [AnhTaggableBundle](https://github.com/hilobok/AnhTaggableBundle) - Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging.
+* [AntennaBundle](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication.
+* [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
+* [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle.
+* [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
+* [AviaryBundle](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.
+* [AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2.
+* [BackupManagerBundle](https://github.com/lhpalacio/BackupManagerBundle) - A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.
+* [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
+* [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) - Integration of the Geocoder library.
+* [BCCMyrrixBundle](https://github.com/michelsalib/BCCMyrrixBundle) - Myrrix is a recommendation engine built on Apache Mahout libraries.
+* [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
+* [BlogBundle](https://github.com/stfalcon/BlogBundle) - Simple blog module.
+* [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
+* [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
+* [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
+* [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
+* [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
+* [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
+* [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
+* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
+* [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
+* [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
+* [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
+* [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
+* [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
+* [ExcelBundle](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.
+* [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
+* [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.
+* [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
+* [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - Adds BBCode support to Symfony project.
+* [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
+* [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - Magically shrinks bundle installation steps into a single command.
+* [godfather](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
+* [GoogleBundle](https://github.com/antimattr/GoogleBundle) - Bundle for Google Analytics.
+* [guzzle-bundle](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
+* [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
+* [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
+* [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
+* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
+* [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
+* [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - This bundle provides a simple datagrid bundle.
+* [KnpMarkdownBundle](https://github.com/KnpLabs/KnpMarkdownBundle) - Wrapper for PHP markdown.
+* [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images by converting html using webkit.
+* [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
+* [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Image manipulation bundle, based on Imagine library.
+* [LiipUrlAutoConverterBundle](https://github.com/liip/LiipUrlAutoConverterBundle) - Add a Twig Extension for templates with a new filter for automatically converting urls and emails in a string to html links.
+* [marshaller-bundle](https://github.com/gnugat/marshaller-bundle) - A PHP library that converts from one format to another.
+* [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
+* [MhorMediaInfoBundle](https://github.com/mhor/MhorMediaInfoBundle) - Integrates php-mediainfo library into the Symfony2 full-stack framework.
+* [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets).
+* [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
+* [MultiParamBundle](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
+* [ObHighchartsBundle](https://github.com/marcaube/ObHighchartsBundle) - Aims to ease the use of highcharts to display rich graph and charts.
+* [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
+* [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
+* [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
+* [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) - QueryBus integration in Symfony.
+* [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
+* [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
+* [SettingsBundle](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
+* [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
+* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
+* [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.
+* [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - Provide to use Sphinx search.
+* [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - This bundle allows you to automatically generate a unique random string on an entity property, useful for creating keys.
+* [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - Cache abstraction bundle.
+* [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
+* [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
+* [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
+* [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
+* [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
+* [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
+* [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
+* [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
+* [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
+* [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -247,86 +327,6 @@ Table of contents:
 
  * [LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Bundle provides a way to run a series of application related health checks.
  * [SoclozMonitoringBundle](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
-
-## Miscellaneous
-
- * [AnhTaggableBundle](https://github.com/hilobok/AnhTaggableBundle) - Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging.
- * [AntennaBundle](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication.
- * [APYBreadcrumbTrailBundle](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
- * [APYDataGridBundle](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle.
- * [AvAlertifyBundle](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
- * [AviaryBundle](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.
- * [AvListBundle](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2.
- * [BackupManagerBundle](https://github.com/lhpalacio/BackupManagerBundle) - A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.
- * [BazingaFakerBundle](https://github.com/willdurand/BazingaFakerBundle) - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
- * [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle) - Integration of the Geocoder library.
- * [BCCMyrrixBundle](https://github.com/michelsalib/BCCMyrrixBundle) - Myrrix is a recommendation engine built on Apache Mahout libraries.
- * [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
- * [BlogBundle](https://github.com/stfalcon/BlogBundle) - Simple blog module.
- * [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
- * [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
- * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
- * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
- * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
- * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
- * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
- * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
- * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
- * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
- * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
- * [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
- * [EmbedlyBundle](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
- * [ExcelBundle](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to https://github.com/PHPOffice/PHPExcel library.
- * [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
- * [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - This bundle provides a simple wrapper for the PHP_FFmpeg library, exposing the library as a Symfony service.
- * [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
- * [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - Adds BBCode support to Symfony project.
- * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
- * [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - Magically shrinks bundle installation steps into a single command.
- * [godfather](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
- * [GoogleBundle](https://github.com/antimattr/GoogleBundle) - Bundle for Google Analytics.
- * [guzzle-bundle](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
- * [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
- * [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
- * [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
- * [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
- * [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
- * [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - This bundle provides a simple datagrid bundle.
- * [KnpMarkdownBundle](https://github.com/KnpLabs/KnpMarkdownBundle) - Wrapper for PHP markdown.
- * [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images by converting html using webkit.
- * [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
- * [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Image manipulation bundle, based on Imagine library.
- * [LiipUrlAutoConverterBundle](https://github.com/liip/LiipUrlAutoConverterBundle) - Add a Twig Extension for templates with a new filter for automatically converting urls and emails in a string to html links.
- * [marshaller-bundle](https://github.com/gnugat/marshaller-bundle) - A PHP library that converts from one format to another.
- * [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
- * [MhorMediaInfoBundle](https://github.com/mhor/MhorMediaInfoBundle) - Integrates php-mediainfo library into the Symfony2 full-stack framework.
- * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets).
- * [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
- * [MultiParamBundle](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
- * [ObHighchartsBundle](https://github.com/marcaube/ObHighchartsBundle) - Aims to ease the use of highcharts to display rich graph and charts.
- * [OneupUploaderBundle](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
- * [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
- * [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
- * [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) - QueryBus integration in Symfony.
- * [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
- * [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
- * [SettingsBundle](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
- * [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
- * [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
- * [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.
- * [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - Provide to use Sphinx search.
- * [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - This bundle allows you to automatically generate a unique random string on an entity property, useful for creating keys.
- * [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - Cache abstraction bundle.
- * [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
- * [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
- * [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
- * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
- * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
- * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
- * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
- * [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
- * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
- * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
 
 ## Third Party APIs
 
