@@ -245,6 +245,13 @@ Table of contents:
 * [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
 * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
 
+## Reading
+
+* [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
+* [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
+* [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
+* [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -336,13 +343,6 @@ Table of contents:
  * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
  * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
  * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
-
-## Reading
-
- * [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
- * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
- * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
- * [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
 
 ## Resources
 
