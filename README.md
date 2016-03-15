@@ -252,6 +252,11 @@ Table of contents:
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
 * [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
 
+## Resources
+
+* [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
+* [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
+
 ## User Management
 
  * [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
@@ -343,11 +348,6 @@ Table of contents:
  * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
  * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
  * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
-
-## Resources
-
-* [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
-* [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 
 ## License
 
