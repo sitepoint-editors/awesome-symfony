@@ -105,7 +105,6 @@ Table of contents:
 * [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
 * [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
 * [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
-* [Symfony Nerdery Edition](https://github.com/thenerdery/symfony-standard)
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
 * [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
