@@ -130,7 +130,7 @@ Table of contents:
 * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
 * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
 * [SharkLoggerBundle](https://github.com/agiuliano/SharkLoggerBundle) - A Symfony 2 bundle that allows you to log form errors and data.
-* [symfony-collection](https://github.com/ninsuo/symfony-collection) - A jQuery plugin that manages adding, deleting and moving elements from a Symfony collection.
+* [symfony-collection](https://github.com/ninsuo/symfony-collection) - A jQuery plugin that manages adding, deleting and moving elements from a Symfony form collection.
 
 ## Internationalization
 
