@@ -58,7 +58,7 @@ Table of contents:
 * Local:
     * [Community events](http://symfony.com/events/) - Find Symfony events near you.
     * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
-* [Telegram](telegram.me/symfony_php) - Symfony group on Telegram.
+* [Telegram](https://telegram.me/symfony_php) - Symfony group on Telegram.
 * [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
 * [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
 * [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
