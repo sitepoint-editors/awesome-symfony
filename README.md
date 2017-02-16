@@ -62,7 +62,7 @@ Table of contents:
 * [Quora](https://www.quora.com/topic/Symfony) - Symfony topics on Quora.
 * [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
 * [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
-* [Slack](https://symfony2slack.herokuapp.com/) - Symfony group on Slack, platform for team communication.
+* [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
 * [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
 
