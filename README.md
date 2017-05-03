@@ -41,6 +41,7 @@ Table of contents:
 * [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
 * [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - Exposes the AssetsHelper service from Symfony2's templating component to JavaScript, allowing relative or absolute asset URI's to be generated client-side.
 * [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - Automates the process of updating assets version.
+* [MabaWebpackBundle](https://github.com/mariusbalcytis/webpack-bundle) - Bundle to integrate Webpack into Symfony.
 * [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
 * [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
 * [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
