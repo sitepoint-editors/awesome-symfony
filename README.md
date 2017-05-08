@@ -252,7 +252,6 @@ Table of contents:
 * [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
-* [Symfony2 cheat sheet](http://www.symfony2cheatsheet.com/)
 
 ## Resources
 
