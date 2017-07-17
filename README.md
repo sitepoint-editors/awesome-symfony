@@ -327,6 +327,7 @@ Table of contents:
 * [KnpUGuardBundle](https://github.com/knpuniversity/KnpUGuardBundle) - Adds simple and beautiful authentication to your Symfony project.
 * [SamlBundle](https://github.com/pdias/SamlBundle) - The SamlBundle adds support for SAML 2.0 Service Provider in Symfony2.
 * [two-factor-bundle](https://github.com/scheb/two-factor-bundle) - This Symfony2 bundle provides two-factor authentication for your website.
+* [Ma27ApiKeyAuthenticationBundle](https://github.com/Ma27/Ma27ApiKeyAuthenticationBundle) - This Symfony bundle provides user authentication with API keys for your website.
 
 ## Validation
 
