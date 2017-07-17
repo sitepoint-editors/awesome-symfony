@@ -5,6 +5,7 @@ Table of contents:
 
 * [Administration](#administration)
 * [Assets Management](#assets-management)
+* [Certification](#certification)
 * [Community](#community)
 * [Development](#development)
 * [Distributions](#distributions)
@@ -44,6 +45,11 @@ Table of contents:
 * [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - This bundle integrate jshrink library as Assetic filter and twig extension.
 * [SpritesBundle](https://github.com/pminnieur/SpritesBundle) - Bundle for the Sprites library.
 * [ZakharovviHumansTxtBundle](https://github.com/zakharovvi/ZakharovviHumansTxtBundle) - Generate humans.txt file from git repository.
+
+## Certification
+* [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
+* [Symfony 3 certification guide](https://github.com/raulconti/symfony-3-certification-guide)
+* [Symfony certification preparation list](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
 ## Community
 
