@@ -69,7 +69,7 @@ Table of contents:
 * [Reddit](https://www.reddit.com/r/symfony) - Ask and answer questions, discussion.
 * [SensioLabs Connect](https://connect.sensiolabs.com/login) - Developer social network, earn achievements for your community involvement and commitment.
 * [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony) - Symfony support on Stack Overflow.
 * [Twitter](https://twitter.com/symfony) - Keep up with Symfony news in a twitter-like way.
 
 ## Development
