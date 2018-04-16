@@ -103,18 +103,9 @@ Table of contents:
 ## Distributions
 
 * [API Platform framework](https://github.com/api-platform/api-platform)
-* [KnpLabs RAD Edition](https://github.com/KnpLabs/rad-edition)
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
-* [Symfony Biga Edition](https://github.com/JoshuaEstes/symfony-biga-edition)
-* [Symfony Bootstrap Edition](https://github.com/phiamo/symfony-bootstrap)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
-* [Symfony EmberJs Edition](https://github.com/ucsf-ckm/symfony-emberjs-edition)
-* [Symfony Empty Edition](https://github.com/gnugat/symfony-empty-edition)
-* [Symfony Micro Edition](https://github.com/magnusnordlander/symfony-micro)
-* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition)
-* [Symfony Sonata Edition](https://github.com/jmather/symfony-sonata-distribution)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
-* [Victoire DCMS](https://github.com/victoire/victoire)
 
 ## Ecommerce
 
