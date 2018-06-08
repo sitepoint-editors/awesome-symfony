@@ -263,6 +263,7 @@ Table of contents:
 
 * [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 * [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
+* [Programming Community Curated Resources for learning Symfony](https://hackr.io/tutorials/learn-symfony)
 
 ## Service Container
 
