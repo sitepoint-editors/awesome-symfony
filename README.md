@@ -317,6 +317,7 @@ Table of contents:
 * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
 * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
 * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
+* [SymfonyPubnub](https://github.com/TxTony/SymfonyPubnub) - Symfony 2 service to use Pubnub for real time communication
 
 ## User Management
 
