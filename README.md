@@ -32,6 +32,7 @@ Table of contents:
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
+* [unite cms](https://github.com/unite-cms/unite-cms) - unite cms - Full headless CMS with a GraphQL API for Symfony applications or standalone
 
 ## Assets Management
 
