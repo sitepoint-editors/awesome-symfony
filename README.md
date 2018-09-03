@@ -181,6 +181,7 @@ Table of contents:
 * [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
 * [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - Adds BBCode support to Symfony project.
 * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
+* [FwLastBundle](https://github.com/franzwilding/last) - Zero Configuration, Static Site Generator for any Symfony project.
 * [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - Magically shrinks bundle installation steps into a single command.
 * [godfather](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
 * [GoogleBundle](https://github.com/antimattr/GoogleBundle) - Bundle for Google Analytics.
