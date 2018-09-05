@@ -333,6 +333,7 @@ Table of contents:
 * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - Provides a FilterService to allow users to implement input filtering in entities using Annotations.
 * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - Validator for ensuring strong passwords.
 * [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
+* [DoctrineValidatorBundle](https://gitlab.com/assoconnect/doctrine-validator-bundle) — a bundle that provides the integration of Symfony validation component with Doctrine entity custom type to avoid duplicate code for types such as BIC, IBAN, lat/lng and much more.
 
 ## Web Services
 
