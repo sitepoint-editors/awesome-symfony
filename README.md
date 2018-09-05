@@ -252,6 +252,7 @@ Table of contents:
 * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
 * [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
 * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
+* [EnqueueBundle](https://github.com/php-enqueue/enqueue-bundle) - Message queue bundle for Symfony. RabbitMQ, Amazon SQS, Redis and more. Service bus, Async events, RPC over MQ and a lot more
 
 ## Reading
 
