@@ -131,6 +131,7 @@ Table of contents:
 * [CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
 * [FilterFormBundle](https://github.com/IDCI-Consulting/FilterFormBundle) - Filter form bundle.
 * [FormBundle](https://github.com/Gregwar/FormBundle) - Provides the "entity_id" type.
+* [HtmlSanitizerBundle](https://github.com/tgalopin/html-sanitizer-bundle) - Sanitize untrustworthy HTML user input.
 * [InfiniteFormBundle](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
 * [IvoryCKEditorBundle](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
 * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
