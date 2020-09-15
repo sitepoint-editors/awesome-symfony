@@ -154,7 +154,6 @@ Table of contents:
 * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
 * [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - Magically shrinks bundle installation steps into a single command.
 * [godfather](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
-* [GoogleBundle](https://github.com/antimattr/GoogleBundle) - Bundle for Google Analytics.
 * [guzzle-bundle](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
 * [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
 * [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
