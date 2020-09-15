@@ -97,7 +97,6 @@ Table of contents:
 
 * [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
-* [WellCommerce](https://github.com/WellCommerce/WellCommerce) - An E-commerce platform for PHP 7.x
 * [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
 ## Forms
@@ -225,7 +224,6 @@ Table of contents:
 
 ## Reading
 
-* [Assets Cache Busting in Symfony](http://elnur.pro/assets-cache-busting-in-symfony/)
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
 
