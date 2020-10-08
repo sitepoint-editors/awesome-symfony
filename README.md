@@ -95,6 +95,7 @@ Table of contents:
 
 ## Ecommerce
 
+* [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
 * [Bamboo](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
 * [Elcodi](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
 * [Sylius](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
