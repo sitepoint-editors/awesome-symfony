@@ -46,7 +46,6 @@ Table of contents:
 * IRC:
     * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
     * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
-* [Linked.in](https://www.linkedin.com/grp/home?gid=29205) - Large and active group on Linked.in.
 * Local:
     * [Community events](http://symfony.com/events/) - Find Symfony events near you.
     * [Meetup](http://www.meetup.com/topics/symfony/) - Get involved locally and find Symfony users from your local area.
