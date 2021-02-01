@@ -226,6 +226,7 @@ Table of contents:
 
 ## Reading
 
+* [Symfony 5: The Fast Track](https://symfony.com/book) - Book written by Symfony's creator, free online.
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
