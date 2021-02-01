@@ -31,6 +31,7 @@ Table of contents:
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
+* [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
