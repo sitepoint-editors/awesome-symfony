@@ -33,7 +33,7 @@ Table of contents:
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
-* 
+
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
 * [Symfony 3 certification guide](https://github.com/raulconti/symfony-3-certification-guide)
