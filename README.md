@@ -16,6 +16,7 @@ Table of contents:
 * [Payments Management](#payments-management)
 * [Queues](#queues)
 * [Reading](#reading)
+* [Recipes](#recipes)
 * [Resources](#resources)
 * [Service Container](#service-container)
 * [Storage](#storage)
@@ -232,6 +233,10 @@ Table of contents:
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
+
+## Recipes
+* [Symfony Recipes](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## Resources
 
