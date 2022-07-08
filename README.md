@@ -34,6 +34,8 @@ Table of contents:
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
+* [Gentella admin](https://github.com/mamless/Gentella-admin-Symfony-5) - Administration Dashboard with Gentelella Admin Theme.
+* [pdAdmin](https://github.com/Arrrray/pd-admin) - Symfony Powerful Dashboard & Admin. Developed with Symfony 5, Vue 3, Bootstrap 5 framework.
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
