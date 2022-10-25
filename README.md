@@ -34,6 +34,7 @@ Table of contents:
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
+* [TablerBundle](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
