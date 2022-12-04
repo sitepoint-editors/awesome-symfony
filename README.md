@@ -138,7 +138,7 @@ Table of contents:
 * [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
 * [BlogBundle](https://github.com/stfalcon/BlogBundle) - Simple blog module.
 * [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
-* [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
+* [BreadcrumbsBundle](https://github.com/mhujer/BreadcrumbsBundle) - A small breadcrumbs bundle.
 * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
 * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
 * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
@@ -198,7 +198,7 @@ Table of contents:
 * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
 * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
 * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
-* [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
+* [BabDevPagerfantaBundle](https://github.com/BabDev/BabDevPagerfantaBundle) - Bundle to use Pagerfanta.
 * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
 * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
 
