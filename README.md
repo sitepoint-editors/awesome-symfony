@@ -46,7 +46,6 @@ Table of contents:
 * Facebook - notable, large and active Facebook groups:
     * [1](https://fb.com/groups/7672226565)
     * [2](https://fb.com/groups/symfony2.framework)
-* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
 * IRC:
     * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
     * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
