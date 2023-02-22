@@ -10,6 +10,7 @@ Table of contents:
 * [Distributions](#distributions)
 * [Ecommerce](#ecommerce)
 * [Forms](#forms)
+* [Integration guides](#integration-guides)
 * [Internationalization](#internationalization)
 * [Miscellaneous](#miscellaneous)
 * [Monitoring](#monitoring)
@@ -110,6 +111,10 @@ Table of contents:
 * [IvoryOrderedFormBundle](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
 * [KarserRecaptcha3Bundle](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
 * [LexikFormFilterBundle](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
+
+## Integration guides
+
+* [Symfony + Flowbite/Tailwind CSS](https://flowbite.com/docs/getting-started/symfony/) - Learn how to install and set up Tailwind CSS and Flowbite in Symfony.
 
 ## Internationalization
 
