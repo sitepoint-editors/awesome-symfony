@@ -297,6 +297,7 @@ Table of contents:
 * [SwarrotBundle](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
 * [SwmMailHookBundle](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
 * [YuccaPrerenderBundle](https://github.com/rjanot/YuccaPrerenderBundle) - Symfony2 Bundle to use prerender.io.
+* [Vedika API](https://vedika.io) - REST API for Vedic astrology calculations, AI-powered chatbot, and predictions with 108+ endpoints supporting 22 languages.
 
 ## User Management
 
