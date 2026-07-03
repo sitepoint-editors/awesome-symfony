@@ -201,6 +201,7 @@ Table of contents:
 * [BabDevPagerfantaBundle](https://github.com/BabDev/BabDevPagerfantaBundle) - Bundle to use Pagerfanta.
 * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
 * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform built with PHP and Symfony for campaigns, segmentation, and lead management.
 
 ## Monitoring
 
