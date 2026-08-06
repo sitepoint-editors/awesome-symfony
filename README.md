@@ -160,6 +160,7 @@ Table of contents:
 * [godfather](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
 * [guzzle-bundle](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
 * [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
+* [Symfony Import Export Bundle](https://github.com/HugoSEIGLE/symfony-import-export-bundle) - Import and export Doctrine entities to and from CSV/XLSX with Symfony Forms validation, templates, and explicit persistence control.
 * [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
 * [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
 * [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
