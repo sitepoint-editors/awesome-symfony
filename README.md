@@ -162,6 +162,7 @@ Table of contents:
 * [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
 * [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
 * [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
+* [IndexNowKitBundle](https://github.com/indexnowkit/php/tree/main/packages/symfony-bundle) - Notifies search engines (Yandex, Bing, Naver, Seznam) through IndexNow when a Doctrine entity is committed: one attribute on the entity, debounce, batching, Messenger, a check command.
 * [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
 * [JMDUnoconvBundle](https://github.com/mops1k/JMDUnoconvBundle) - Bundle which provides gate for converting files from one format to another via unoconv (LibreOffice) thru php-unoconv library.
 * [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
