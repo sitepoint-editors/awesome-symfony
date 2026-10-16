@@ -190,6 +190,7 @@ Table of contents:
 * [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - A bundle which automatically syncs Doctrine entities to a Sphinx real-time index.
 * [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - Provide to use Sphinx search.
 * [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - This bundle allows you to automatically generate a unique random string on an entity property, useful for creating keys.
+* [symfony-guard](https://github.com/Guard-Core/symfony-guard) - Symfony integration for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 * [TbbcCacheBundle](https://github.com/TheBigBrainsCompany/TbbcCacheBundle) - Cache abstraction bundle.
 * [TbbcMoneyBundle](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
 * [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
