@@ -94,6 +94,7 @@ Table of contents:
 * [Kunstmaan Bundles Standard Edition](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
 * [Symfony CMF Standard Edition](https://github.com/symfony-cmf/standard-edition)
 * [Symfony Standard Edition](https://github.com/symfony/symfony-standard)
+* [Synaplan](https://github.com/metadist/synaplan) - Open-source, self-hosted AI workspace and RAG platform built on Symfony and FrankenPHP.
 
 ## Ecommerce
 
