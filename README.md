@@ -145,6 +145,7 @@ Table of contents:
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
 * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
 * [EightPointsGuzzleBundle](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
+* [cursor-pagination](https://cursor-pagination.silarhi.dev) - Cursor-based (keyset) pagination for Doctrine ORM, to process large tables in batches.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
 * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
@@ -168,6 +169,7 @@ Table of contents:
 * [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - This bundle provides a simple datagrid bundle.
 * [KnpMarkdownBundle](https://github.com/KnpLabs/KnpMarkdownBundle) - Wrapper for PHP markdown.
 * [KnpSnappyBundle](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images by converting html using webkit.
+* [llms-txt-bundle](https://llms-txt-bundle.silarhi.dev) - Build, dump and serve an llms.txt file from your Symfony application.
 * [LexikMaintenanceBundle](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
 * [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Image manipulation bundle, based on Imagine library.
 * [LiipUrlAutoConverterBundle](https://github.com/liip/LiipUrlAutoConverterBundle) - Add a Twig Extension for templates with a new filter for automatically converting urls and emails in a string to html links.
@@ -195,6 +197,8 @@ Table of contents:
 * [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
 * [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
 * [timeline-bundle](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
+* [turbo-bundle](https://turbo-bundle.silarhi.dev) - Follows Hotwire Turbo frame redirects in Symfony, whatever the frontend stack.
+* [ux-icons-js-bundle](https://ux-icons-js-bundle.silarhi.dev) - Render Symfony UX Icons in JavaScript, React and Vue, with the same attributes as ux_icon().
 * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
 * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
 * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
@@ -281,7 +285,9 @@ Table of contents:
 * [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
 * [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - Simple wrapper to gravatar API.
 * [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
+* [picasso-bundle](https://picasso-bundle.silarhi.dev) - Twig component for responsive images: AVIF/WebP srcset, blur placeholders, Glide or Imgix.
 * [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
+* [tabler-ux-components](https://tabler-ux-components.silarhi.dev) - Tabler Twig components for Symfony UX.
 * [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
 * [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
 * [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - Apply inflection via a Twig extension.
